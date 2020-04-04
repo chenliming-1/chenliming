@@ -6,9 +6,9 @@
 # b = input("任意输入内容2：")
 # print("a+b的内容长度:",len(a+b))
 
-a = input("请输入内容1：")
-b = input("请输入内容2：")
-print(len(a+b))
+# a = input("请输入内容1：")
+# b = input("请输入内容2：")
+# print(len(a+b))
 
 
 
